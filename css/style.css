@@ -1,0 +1,27 @@
+img {
+    width: 100%;
+  }
+  
+  body {
+    background: white;
+    margin: 0;
+
+}
+
+h1 {
+    padding: 0 20px;
+}
+
+.gallery-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 20px;
+    /* grid-auto-rows: 150px; */
+    gap: 1rem;
+}
+
+.gallery_img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
