@@ -5,5 +5,4 @@
 
 * Make the main element a grid container with three columns of equal size, taking up all available space.
 
-* Add a grid gap. 
 ![grid1-mock](/assets/grid1-reference.png)
